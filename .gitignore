@@ -4,5 +4,6 @@ projects.zsh
 custom/*
 !custom/example
 !custom/example.zsh
+!custom/npinto.zsh-theme
 cache
 *.swp
